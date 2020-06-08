@@ -1,5 +1,5 @@
 // * VARIABLES * //
-var genurl = "https://jhbadge.freetls.fastly.net/"; 			// URL of the generator
+var genurl = "https://jhbadge.com/"; 			// URL of the generator
 
 var types = [                       			// Types of Badges (names) 
 	"by-alpacas",
